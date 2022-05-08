@@ -13,13 +13,14 @@ Apache-Tomcat 연동, app deploy
 <iframe width="609" height="342.5" src="https://www.youtube.com/embed/JN3l3OD179M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
+Google Cloud Platform Compute engine
+<iframe width="609" height="342.5" src="https://www.youtube.com/embed/iITVeBnIQnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+
 Oracle Weblogic 설치 및 app deploy
 <iframe width="=609" height="342.5" src="https://www.youtube.com/embed/LR9ORdsUheg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
-Google Cloud Platform Compute engine
-<iframe width="609" height="342.5" src="https://www.youtube.com/embed/iITVeBnIQnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<br>
 
 # 리눅스 과목을 배우고 느낀점
 사용하는 방법이 복잡하지만 그래도!! 그래서 흥미있는 것 같다. <br>
