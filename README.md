@@ -10,13 +10,13 @@ linux
 
 # 영상
 1. Apache-Tomcat 연동, app deploy
-<iframe width="608.5" height="342.5" src="https://www.youtube.com/embed/JN3l3OD179M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="609" height="342.5" src="https://www.youtube.com/embed/JN3l3OD179M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 
 
 2. Oracle Weblogic 설치 및 app deploy
-<iframe width="=608.5" height="342.5" src="https://www.youtube.com/embed/LR9ORdsUheg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="=609" height="342.5" src="https://www.youtube.com/embed/LR9ORdsUheg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 
 3. Google Cloud Platform Compute engine
